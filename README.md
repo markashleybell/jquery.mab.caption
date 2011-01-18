@@ -1,0 +1,1 @@
+This plugin automatically captions images using the ALT and LONGDESC attributes.
